@@ -1,0 +1,3239 @@
+[
+  {
+    "id": 0,
+    "name_de": "ENGLISCHER POINTER",
+    "name_en": "ENGLISH POINTER",
+    "group": "Vorstehhunde",
+    "section": "Britische und Irische Vorstehhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/english%20pointer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 1,
+    "name_de": "ENGLISCHER SETTER",
+    "name_en": "ENGLISH SETTER",
+    "group": "Vorstehhunde",
+    "section": "Britische und Irische Vorstehhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/english%20setter%20dog/Image_1.jpg"
+  },
+  {
+    "id": 2,
+    "name_de": "KERRY BLUE TERRIER",
+    "name_en": "KERRY BLUE TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "IRLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/kerry%20blue%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 3,
+    "name_de": "CAIRN TERRIER",
+    "name_en": "CAIRN TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/cairn%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 4,
+    "name_de": "ENGLISH COCKER SPANIEL",
+    "name_en": "ENGLISH COCKER SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/english%20cocker%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 5,
+    "name_de": "GORDON SETTER",
+    "name_en": "GORDON SETTER",
+    "group": "Vorstehhunde",
+    "section": "Britische und Irische Vorstehhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/gordon%20setter%20dog/Image_1.jpg"
+  },
+  {
+    "id": 6,
+    "name_de": "AIREDALE TERRIER",
+    "name_en": "AIREDALE TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/airedale%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 7,
+    "name_de": "AUSTRALIAN TERRIER",
+    "name_en": "AUSTRALIAN TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "AUSTRALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/australian%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 8,
+    "name_de": "BEDLINGTON TERRIER",
+    "name_en": "BEDLINGTON TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bedlington%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 9,
+    "name_de": "BORDER TERRIER",
+    "name_en": "BORDER TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/border%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 10,
+    "name_de": "BULL TERRIER",
+    "name_en": "BULL TERRIER",
+    "group": "Terrier",
+    "section": "Bullartige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bull%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 11,
+    "name_de": "FOX TERRIER (GLATTHAAR)",
+    "name_en": "FOX TERRIER (SMOOTH)",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/fox%20terrier%20(smooth)%20dog/Image_1.jpg"
+  },
+  {
+    "id": 12,
+    "name_de": "ENGLISCHER TOY TERRIER (SCHWARZ UND LOH)",
+    "name_en": "ENGLISH TOY TERRIER (BLACK &TAN)",
+    "group": "Terrier",
+    "section": "Zwerg-Terriers",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/english%20toy%20terrier%20(black%20%26tan)%20dog/Image_1.png"
+  },
+  {
+    "id": 13,
+    "name_de": "SCHWEDISCHER WALLHUND",
+    "name_en": "SWEDISH VALLHUND",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Wach- und Hütehunde",
+    "country": "SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/swedish%20vallhund%20dog/Image_1.jpg"
+  },
+  {
+    "id": 14,
+    "name_de": "BELGISCHER SCHÄFERHUND",
+    "name_en": "BELGIAN SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "BELGIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/belgian%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 15,
+    "name_de": "ALTENGLISCHER SCHAFERHUND",
+    "name_en": "OLD ENGLISH SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/old%20english%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 16,
+    "name_de": "GRIFFON NIVERNAIS",
+    "name_en": "GRIFFON NIVERNAIS",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/griffon%20nivernais%20dog/Image_1.jpg"
+  },
+  {
+    "id": 17,
+    "name_de": "BRIQUET GRIFFON VENDEEN",
+    "name_en": "BRIQUET GRIFFON VENDEEN",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/briquet%20griffon%20vendeen%20dog/Image_1.jpg"
+  },
+  {
+    "id": 18,
+    "name_de": "ARIEGEOIS",
+    "name_en": "ARIEGEOIS",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/ariegeois%20dog/Image_1.jpg"
+  },
+  {
+    "id": 19,
+    "name_de": "GASCON SAINTONGEOIS",
+    "name_en": "GASCON SAINTONGEOIS",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/gascon%20saintongeois%20dog/Image_1.jpg"
+  },
+  {
+    "id": 20,
+    "name_de": "GROSSER BLAUER GASCOGNE-LAUFHUND",
+    "name_en": "GREAT GASCONY BLUE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/great%20gascony%20blue%20dog/Image_1.jpg"
+  },
+  {
+    "id": 21,
+    "name_de": "POITEVIN",
+    "name_en": "POITEVIN",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/poitevin%20dog/Image_1.jpg"
+  },
+  {
+    "id": 22,
+    "name_de": "BILLY",
+    "name_en": "BILLY",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/billy%20dog/Image_1.jpg"
+  },
+  {
+    "id": 23,
+    "name_de": "CHIEN D'ARTOIS",
+    "name_en": "ARTOIS HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/artois%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 24,
+    "name_de": "PORCELAINE",
+    "name_en": "PORCELAINE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/porcelaine%20dog/Image_1.jpg"
+  },
+  {
+    "id": 25,
+    "name_de": "KLEINER BLAUER GASCOGNE LAUFHUND",
+    "name_en": "SMALL BLUE GASCONY",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/small%20blue%20gascony%20dog/Image_1.jpg"
+  },
+  {
+    "id": 26,
+    "name_de": "BLAUER GRIFFON DER GASCOGNE",
+    "name_en": "BLUE GASCONY GRIFFON",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/blue%20gascony%20griffon%20dog/Image_1.jpg"
+  },
+  {
+    "id": 27,
+    "name_de": "GROSSER BASSET GRIFFON VENDEEN",
+    "name_en": "GRAND BASSET GRIFFON VENDEEN",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/grand%20basset%20griffon%20vendeen%20dog/Image_1.jpg"
+  },
+  {
+    "id": 28,
+    "name_de": "BASSET ARTESIEN NORMAND",
+    "name_en": "NORMAN ARTESIEN BASSET",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norman%20artesien%20basset%20dog/Image_1.jpg"
+  },
+  {
+    "id": 29,
+    "name_de": "BLAUER BASSET DER GASCOGNE",
+    "name_en": "BLUE GASCONY BASSET",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/blue%20gascony%20basset%20dog/Image_1.jpg"
+  },
+  {
+    "id": 30,
+    "name_de": "BASSET FAUVE DE BRETAGNE",
+    "name_en": "BASSET FAUVE DE BRETAGNE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/basset%20fauve%20de%20bretagne%20dog/Image_1.jpg"
+  },
+  {
+    "id": 31,
+    "name_de": "PORTUGIESISCHER WASSERHUND",
+    "name_en": "PORTUGUESE WATER DOG",
+    "group": "Apportierhunde",
+    "section": "Wasserhunde",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/portuguese%20water%20dog/Image_1.jpg"
+  },
+  {
+    "id": 32,
+    "name_de": "WELSH CORGI (CARDIGAN)",
+    "name_en": "WELSH CORGI (CARDIGAN)",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Treibhunde (ausgenommen Schweizer Sennenhunde)",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/welsh%20corgi%20(cardigan)%20dog/Image_1.jpg"
+  },
+  {
+    "id": 33,
+    "name_de": "WELSH CORGI (PEMBROKE)",
+    "name_en": "WELSH CORGI (PEMBROKE)",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Treibhunde (ausgenommen Schweizer Sennenhunde)",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/welsh%20corgi%20(pembroke)%20dog/Image_1.jpeg"
+  },
+  {
+    "id": 34,
+    "name_de": "IRISCHER SOFT COATED WHEATEN TERRIER",
+    "name_en": "IRISH SOFT COATED WHEATEN TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "IRLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/irish%20soft%20coated%20wheaten%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 35,
+    "name_de": "JUGOSLAWISCHER HIRTENHUND - SARPLANINAC",
+    "name_en": "YUGOSLAVIAN SHEPHERD DOG - SHARPLANINA",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "NORD-MAZEDONIEN, SERBIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/yugoslavian%20shepherd%20dog%20-%20sharplanina/Image_1.jpg"
+  },
+  {
+    "id": 36,
+    "name_de": "SCHWEDISCHER ELCHHUND",
+    "name_en": "JÄMTHUND",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/jämthund%20dog/Image_1.jpg"
+  },
+  {
+    "id": 37,
+    "name_de": "BASENJI",
+    "name_en": "BASENJI",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp",
+    "country": "ZENTRALAFRIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/basenji%20dog/Image_1.jpg"
+  },
+  {
+    "id": 38,
+    "name_de": "BEAUCERON",
+    "name_en": "BEAUCE SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "FRANKREICH",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Beaucerons.jpg"
+  },
+  {
+    "id": 39,
+    "name_de": "BERNER SENNENHUND",
+    "name_en": "BERNESE MOUNTAIN DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Schweizer Sennenhunde",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bernese%20mountain%20dog/Image_1.jpg"
+  },
+  {
+    "id": 40,
+    "name_de": "APPENZELLER SENNENHUND",
+    "name_en": "APPENZELL CATTLE DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Schweizer Sennenhunde",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/appenzell%20cattle%20dog/Image_1.jpg"
+  },
+  {
+    "id": 41,
+    "name_de": "ENTLEBUCHER SENNENHUND",
+    "name_en": "ENTLEBUCH CATTLE DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Schweizer Sennenhunde",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/entlebuch%20cattle%20dog/Image_1.jpg"
+  },
+  {
+    "id": 42,
+    "name_de": "KARELISCHER BÄRENHUND",
+    "name_en": "KARELIAN BEAR DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "FINNLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/karelian%20bear%20dog/Image_1.jpg"
+  },
+  {
+    "id": 43,
+    "name_de": "FINNEN-SPITZ",
+    "name_en": "FINNISH SPITZ",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "FINNLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/finnish%20spitz%20dog/Image_1.jpg"
+  },
+  {
+    "id": 44,
+    "name_de": "NEUFUNDLÄNDER",
+    "name_en": "NEWFOUNDLAND",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "KANADA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/newfoundland%20dog/Image_1.jpg"
+  },
+  {
+    "id": 45,
+    "name_de": "FINNISCHER LAUFHUND",
+    "name_en": "FINNISH HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FINNLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/finnish%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 46,
+    "name_de": "POLNISCHE BRACKE",
+    "name_en": "POLISH HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "POLEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/polish%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 47,
+    "name_de": "KOMONDOR",
+    "name_en": "KOMONDOR",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/komondor%20dog/Image_1.jpg"
+  },
+  {
+    "id": 48,
+    "name_de": "KUVASZ",
+    "name_en": "KUVASZ",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/kuvasz%20dog/Image_1.jpg"
+  },
+  {
+    "id": 49,
+    "name_de": "PULI",
+    "name_en": "PULI",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/puli%20dog/Image_1.jpg"
+  },
+  {
+    "id": 50,
+    "name_de": "PUMI",
+    "name_en": "PUMI",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pumi%20dog/Image_1.png"
+  },
+  {
+    "id": 51,
+    "name_de": "KURZHAARIGER UNGARISCHER VORSTEHHUND (VIZSLA)",
+    "name_en": "HUNGARIAN SHORT-HAIRED POINTER (VIZSLA)",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hungarian%20short-haired%20pointer%20(vizsla)%20dog/Image_1.jpg"
+  },
+  {
+    "id": 52,
+    "name_de": "GROSSER SCHWEIZER SENNENHUND",
+    "name_en": "GREAT SWISS MOUNTAIN DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Schweizer Sennenhunde",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/great%20swiss%20mountain%20dog/Image_1.jpg"
+  },
+  {
+    "id": 53,
+    "name_de": "SCHWEIZER LAUFHUND",
+    "name_en": "SWISS HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/swiss%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 54,
+    "name_de": "SCHWEIZER  NIEDERLAUFHUND",
+    "name_en": "SMALL SWISS HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/small%20swiss%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 55,
+    "name_de": "ST. BERNHARDSHUND (BERNHARDINER)",
+    "name_en": "ST. BERNARD",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/st.%20bernard%20dog/Image_1.jpeg"
+  },
+  {
+    "id": 56,
+    "name_de": "STEIRISCHE RAUHHAARBRACKE",
+    "name_en": "COARSE-HAIRED STYRIAN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "ÖSTERREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/coarse-haired%20styrian%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 57,
+    "name_de": "BRANDLBRACKE (VIERÄUGL)",
+    "name_en": "AUSTRIAN BLACK AND TAN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "ÖSTERREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/austrian%20black%20and%20tan%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 58,
+    "name_de": "ÖSTERREICHISCHER  PINSCHER",
+    "name_en": "AUSTRIAN  PINSCHER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "ÖSTERREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/austrian%20%20pinscher%20dog/Image_1.jpg"
+  },
+  {
+    "id": 59,
+    "name_de": "MALTESER",
+    "name_en": "MALTESE",
+    "group": "Gesellschafts",
+    "section": "Bichons und verwandte Rassen",
+    "country": "ZENTRALER MITTELMEERRAUM",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/maltese%20dog/Image_1.jpg"
+  },
+  {
+    "id": 60,
+    "name_de": "GRIFFON FAUVE DE BRETAGNE",
+    "name_en": "FAWN BRITTANY GRIFFON",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/fawn%20brittany%20griffon%20dog/Image_1.jpg"
+  },
+  {
+    "id": 61,
+    "name_de": "KLEINER BASSET GRIFFON VENDEEN",
+    "name_en": "PETIT BASSET GRIFFON VENDEEN",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/petit%20basset%20griffon%20vendeen%20dog/Image_1.jpg"
+  },
+  {
+    "id": 62,
+    "name_de": "TIROLER BRACKE",
+    "name_en": "TYROLEAN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "ÖSTERREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/tyrolean%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 63,
+    "name_de": "LAKELAND TERRIER",
+    "name_en": "LAKELAND TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/lakeland%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 64,
+    "name_de": "MANCHESTER TERRIER",
+    "name_en": "MANCHESTER TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/manchester%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 65,
+    "name_de": "NORWICH TERRIER",
+    "name_en": "NORWICH TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norwich%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 66,
+    "name_de": "SCHOTTISCHER TERRIER",
+    "name_en": "SCOTTISH TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/scottish%20terrier%20dog/Image_1.jpeg"
+  },
+  {
+    "id": 67,
+    "name_de": "SEALYHAM TERRIER",
+    "name_en": "SEALYHAM TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/sealyham%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 68,
+    "name_de": "SKYE TERRIER",
+    "name_en": "SKYE TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/skye%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 69,
+    "name_de": "STAFFORDSHIRE BULL TERRIER",
+    "name_en": "STAFFORDSHIRE BULL TERRIER",
+    "group": "Terrier",
+    "section": "Bullartige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/american%20staffordshire%20terrier%20dog/Image_11.gif"
+  },
+  {
+    "id": 70,
+    "name_de": "KONTINENTALER ZWERGSPANIEL",
+    "name_en": "CONTINENTAL TOY SPANIEL",
+    "group": "Gesellschafts",
+    "section": "Kontinentaler Zwergspaniel und andere",
+    "country": "BELGIEN, FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/continental%20toy%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 71,
+    "name_de": "WELSH TERRIER",
+    "name_en": "WELSH TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/welsh%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 72,
+    "name_de": "BRÜSSELER GRIFFON",
+    "name_en": "GRIFFON BRUXELLOIS",
+    "group": "Gesellschafts",
+    "section": "Kleine belgische Hunderassen",
+    "country": "BELGIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/griffon%20bruxellois%20dog/Image_1.jpg"
+  },
+  {
+    "id": 73,
+    "name_de": "BELGISCHER GRIFFON",
+    "name_en": "GRIFFON BELGE",
+    "group": "Gesellschafts",
+    "section": "Kleine belgische Hunderassen",
+    "country": "BELGIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/griffon%20belge%20dog/Image_1.jpg"
+  },
+  {
+    "id": 74,
+    "name_de": "BRABANTER GRIFFON",
+    "name_en": "PETIT BRABANÇON",
+    "group": "Gesellschafts",
+    "section": "Kleine belgische Hunderassen",
+    "country": "BELGIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/petit%20brabançon%20dog/Image_1.jpg"
+  },
+  {
+    "id": 75,
+    "name_de": "SCHIPPERKE",
+    "name_en": "SCHIPPERKE",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "BELGIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/schipperke%20dog/Image_1.gif"
+  },
+  {
+    "id": 76,
+    "name_de": "BLUTHUND",
+    "name_en": "BLOODHOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "BELGIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bloodhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 77,
+    "name_de": "WEST HIGHLAND WHITE TERRIER",
+    "name_en": "WEST HIGHLAND WHITE TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/west%20highland%20white%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 78,
+    "name_de": "YORKSHIRE TERRIER",
+    "name_en": "YORKSHIRE TERRIER",
+    "group": "Terrier",
+    "section": "Zwerg-Terriers",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/yorkshire%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 79,
+    "name_de": "KATALANISCHER SCHÄFERHUND",
+    "name_en": "CATALAN SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/catalan%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 80,
+    "name_de": "SHETLAND SHEEPDOG",
+    "name_en": "SHETLAND SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/shetland%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 81,
+    "name_de": "IBIZA-PODENCO",
+    "name_en": "IBIZAN PODENCO",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp - Hunde zur jagdlichen Verwendung",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/ibizan%20podenco%20dog/Image_1.jpg"
+  },
+  {
+    "id": 82,
+    "name_de": "PERDIGUERO VON BURGOS",
+    "name_en": "BURGOS POINTING DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/burgos%20pointing%20dog/Image_1.jpg"
+  },
+  {
+    "id": 83,
+    "name_de": "SPANISCHER MASTIFF",
+    "name_en": "SPANISH MASTIFF",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/spanish%20mastiff%20dog/Image_1.jpg"
+  },
+  {
+    "id": 84,
+    "name_de": "PYRENÄEN-MASTIFF",
+    "name_en": "PYRENEAN MASTIFF",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pyrenean%20mastiff%20dog/Image_1.jpg"
+  },
+  {
+    "id": 85,
+    "name_de": "PORTUGIESISCHER SCHÄFERHUND",
+    "name_en": "PORTUGUESE SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/portuguese%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 86,
+    "name_de": "PORTUGIESISCHER PODENGO",
+    "name_en": "PORTUGUESE WARREN HOUND-PORTUGUESE PODENGO",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp - Hunde zur jagdlichen Verwendung",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/portuguese%20warren%20hound-portuguese%20podengo%20dog/Image_1.jpg"
+  },
+  {
+    "id": 87,
+    "name_de": "BRETONISCHER SPANIEL",
+    "name_en": "BRITTANY SPANIEL",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/brittany%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 88,
+    "name_de": "RAFEIRO VON ALENTEJO",
+    "name_en": "RAFEIRO OF ALENTEJO",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/rafeiro%20of%20alentejo%20dog/Image_1.jpg"
+  },
+  {
+    "id": 89,
+    "name_de": "DEUTSCHER SPITZ",
+    "name_en": "GERMAN SPITZ",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Europäische Spitze",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/german%20spitz%20dog/Image_1.jpg"
+  },
+  {
+    "id": 90,
+    "name_de": "DEUTSCH DRAHTHAAR",
+    "name_en": "GERMAN WIRE- HAIRED POINTING DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/german%20wire-%20haired%20pointing%20dog/Image_1.jpg"
+  },
+  {
+    "id": 91,
+    "name_de": "WEIMARANER",
+    "name_en": "WEIMARANER",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/weimaraner%20dog/Image_1.jpg"
+  },
+  {
+    "id": 92,
+    "name_de": "WESTFÄLISCHE DACHSBRACKE",
+    "name_en": "WESTPHALIAN DACHSBRACKE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/westphalian%20dachsbracke%20dog/Image_1.jpg"
+  },
+  {
+    "id": 93,
+    "name_de": "FRANZÖSISCHE BULLDOGGE",
+    "name_en": "FRENCH BULLDOG",
+    "group": "Gesellschafts",
+    "section": "Kleine doggenartige Hunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/french%20bulldog/Image_1.jpg"
+  },
+  {
+    "id": 94,
+    "name_de": "KLEINER MÜNSTERLÄNDER",
+    "name_en": "KLEINER MÜNSTERLÄNDER",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/kleiner%20münsterländer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 95,
+    "name_de": "DEUTSCHER JAGDTERRIER",
+    "name_en": "GERMAN HUNTING TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/german%20hunting%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 96,
+    "name_de": "DEUTSCHER WACHTELHUND",
+    "name_en": "GERMAN SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/german%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 97,
+    "name_de": "FRANZÖSISCHER WASSERHUND",
+    "name_en": "FRENCH WATER DOG",
+    "group": "Apportierhunde",
+    "section": "Wasserhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/french%20water%20dog/Image_1.jpg"
+  },
+  {
+    "id": 98,
+    "name_de": "BLAUER PICARDIE-SPANIEL",
+    "name_en": "BLUE PICARDY SPANIEL",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/blue%20picardy%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 99,
+    "name_de": "FRANZÖSISCHER RAUHHAARIGER VORSTEHHUND (KORTHALS)",
+    "name_en": "WIRE-HAIRED POINTING GRIFFON KORTHALS",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/wire-haired%20pointing%20griffon%20korthals%20dog/Image_1.jpg"
+  },
+  {
+    "id": 100,
+    "name_de": "PICARDIE-SPANIEL",
+    "name_en": "PICARDY SPANIEL",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/picardy%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 101,
+    "name_de": "CLUMBER SPANIEL",
+    "name_en": "CLUMBER SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/clumber%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 102,
+    "name_de": "CURLY COATED RETRIEVER",
+    "name_en": "CURLY COATED RETRIEVER",
+    "group": "Apportierhunde",
+    "section": "Apportierhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/curly%20coated%20retriever%20dog/Image_1.jpg"
+  },
+  {
+    "id": 103,
+    "name_de": "GOLDEN RETRIEVER",
+    "name_en": "GOLDEN RETRIEVER",
+    "group": "Apportierhunde",
+    "section": "Apportierhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/golden%20retriever%20dog/Image_1.jpg"
+  },
+  {
+    "id": 104,
+    "name_de": "BERGER DE BRIE",
+    "name_en": "BRIARD",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/briard%20dog/Image_1.jpg"
+  },
+  {
+    "id": 105,
+    "name_de": "PONT-AUDEMER SPANIEL",
+    "name_en": "PONT-AUDEMER SPANIEL",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pont-audemer%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 106,
+    "name_de": "BRAQUE SAINT-GERMAIN",
+    "name_en": "SAINT GERMAIN POINTER",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/saint%20germain%20pointer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 107,
+    "name_de": "BORDEAUXDOGGE",
+    "name_en": "DOGUE DE BORDEAUX",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dogue%20de%20bordeaux/Image_1.jpg"
+  },
+  {
+    "id": 108,
+    "name_de": "DEUTSCH LANGHAAR",
+    "name_en": "DEUTSCH LANGHAAR",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/deutsch%20langhaar%20dog/Image_1.jpg"
+  },
+  {
+    "id": 109,
+    "name_de": "GROSSER MÜNSTERLÄNDER VORSTEHHUND",
+    "name_en": "LARGE MUNSTERLANDER",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/large%20munsterlander%20dog/Image_1.jpg"
+  },
+  {
+    "id": 110,
+    "name_de": "DEUTSCH KURZHAAR",
+    "name_en": "GERMAN SHORT- HAIRED POINTING DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/german%20short-%20haired%20pointing%20dog/Image_1.jpg"
+  },
+  {
+    "id": 111,
+    "name_de": "IRISCHER ROTER SETTER",
+    "name_en": "IRISH RED SETTER",
+    "group": "Vorstehhunde",
+    "section": "Britische und Irische Vorstehhunde",
+    "country": "IRLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/irish%20red%20setter%20dog/Image_1.png"
+  },
+  {
+    "id": 112,
+    "name_de": "FLAT COATED RETRIEVER",
+    "name_en": "FLAT COATED RETRIEVER",
+    "group": "Apportierhunde",
+    "section": "Apportierhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/flat%20coated%20retriever%20dog/Image_1.jpg"
+  },
+  {
+    "id": 113,
+    "name_de": "LABRADOR RETRIEVER",
+    "name_en": "LABRADOR RETRIEVER",
+    "group": "Apportierhunde",
+    "section": "Apportierhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/labrador%20retriever%20dog/Image_1.jpg"
+  },
+  {
+    "id": 114,
+    "name_de": "FIELD SPANIEL",
+    "name_en": "FIELD SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/field%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 115,
+    "name_de": "IRISCHER WASSERSPANIEL",
+    "name_en": "IRISH WATER SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Wasserhunde",
+    "country": "IRLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/irish%20water%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 116,
+    "name_de": "ENGLISH SPRINGER SPANIEL",
+    "name_en": "ENGLISH SPRINGER SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/english%20springer%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 117,
+    "name_de": "WELSH SPRINGER SPANIEL",
+    "name_en": "WELSH SPRINGER SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/welsh%20springer%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 118,
+    "name_de": "SUSSEX SPANIEL",
+    "name_en": "SUSSEX SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/sussex%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 119,
+    "name_de": "KING CHARLES SPANIEL",
+    "name_en": "KING CHARLES SPANIEL",
+    "group": "Gesellschafts",
+    "section": "Englische Gesellschaftsspaniel",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/king%20charles%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 120,
+    "name_de": "SMÅLANDSSTÖVARE",
+    "name_en": "SMÅLANDSSTÖVARE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/smålandsstövare%20dog/Image_1.jpg"
+  },
+  {
+    "id": 121,
+    "name_de": "SCHWEDISCHE DACHSBRACKE",
+    "name_en": "DREVER",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/drever%20dog/Image_1.jpg"
+  },
+  {
+    "id": 122,
+    "name_de": "SCHILLERSTÖVARE",
+    "name_en": "SCHILLERSTÖVARE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/schillerstövare%20dog/Image_1.jpg"
+  },
+  {
+    "id": 123,
+    "name_de": "HAMILTONSTÖVARE",
+    "name_en": "HAMILTONSTÖVARE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hamiltonstövare%20dog/Image_1.jpg"
+  },
+  {
+    "id": 124,
+    "name_de": "FRANZÖSISCHER VORSTEHHUND - TYPUS GASCOGNE",
+    "name_en": "FRENCH POINTING DOG - GASCOGNE TYPE",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/6/69/Petitgasconsaintongeois4.jpg",
+    "credit": "By Canarian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119640261"
+  },
+  {
+    "id": 125,
+    "name_de": "FRANZÖSISCHER VORSTEHHUND - TYPUS PYRENÄEN",
+    "name_en": "FRENCH POINTING DOG - PYRENEAN TYPE",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/french%20pointing%20dog%20-%20pyrenean%20type/Image_1.jpg"
+  },
+  {
+    "id": 126,
+    "name_de": "SCHWEDISCHER LAPPHUND",
+    "name_en": "SWEDISH LAPPHUND",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Wach- und Hütehunde",
+    "country": "SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/swedish%20lapphund%20dog/Image_1.jpg"
+  },
+  {
+    "id": 127,
+    "name_de": "CAVALIER KING CHARLES SPANIEL",
+    "name_en": "CAVALIER KING CHARLES SPANIEL",
+    "group": "Gesellschaftshunde",
+    "section": "Englische Gesellschaftsspaniel",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/cavalier%20king%20charles%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 128,
+    "name_de": "PYRENÄEN-BERGHUND",
+    "name_en": "PYRENEAN MOUNTAIN DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pyrenean%20mountain%20dog/Image_1.jpg"
+  },
+  {
+    "id": 129,
+    "name_de": "PYRENAEN-HUTEHUND MIT KURZHAARIGEM GESICHT",
+    "name_en": "PYRENEAN SHEEPDOG - SMOOTH FACED",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pyrenean%20sheepdog%20-%20smooth%20faced/Image_1.jpg"
+  },
+  {
+    "id": 130,
+    "name_de": "IRISCHER TERRIER",
+    "name_en": "IRISH TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "IRLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/irish%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 131,
+    "name_de": "BOSTON TERRIER",
+    "name_en": "BOSTON TERRIER",
+    "group": "Gesellschafts",
+    "section": "Kleine doggenartige Hunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/boston%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 132,
+    "name_de": "LANGHAARIGER PYRENAEN-SCHAFERHUND",
+    "name_en": "LONG-HAIRED PYRENEAN SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/long-haired%20pyrenean%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 133,
+    "name_de": "SLOWAKISCHER TSCHUVATSCH",
+    "name_en": "SLOVAKIAN CHUVACH",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "SLOWAKEI",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/slovakian%20chuvach%20dog/Image_1.jpg"
+  },
+  {
+    "id": 134,
+    "name_de": "DOBERMANN",
+    "name_en": "DOBERMANN",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dobermann%20dog/Image_1.jpg"
+  },
+  {
+    "id": 135,
+    "name_de": "DEUTSCHER BOXER",
+    "name_en": "BOXER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/boxer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 136,
+    "name_de": "LEONBERGER",
+    "name_en": "LEONBERGER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/leonberger%20dog/Image_1.jpg"
+  },
+  {
+    "id": 137,
+    "name_de": "RHODESIAN RIDGEBACK",
+    "name_en": "RHODESIAN RIDGEBACK",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Verwandte Rassen",
+    "country": "SÜDAFRIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/rhodesian%20ridgeback%20dog/Image_1.jpg"
+  },
+  {
+    "id": 138,
+    "name_de": "ROTTWEILER",
+    "name_en": "ROTTWEILER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/rottweiler%20dog/Image_1.jpg"
+  },
+  {
+    "id": 139,
+    "name_de": "DACHSHUND",
+    "name_en": "DACHSHUND",
+    "group": "Dachshunde",
+    "section": "",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dachshund%20dog/Image_1.jpg"
+  },
+  {
+    "id": 140,
+    "name_de": "BULLDOG",
+    "name_en": "BULLDOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bulldog/Image_1.jpg"
+  },
+  {
+    "id": 141,
+    "name_de": "SERBISCHER LAUFHUND",
+    "name_en": "SERBIAN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SERBIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/serbian%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 142,
+    "name_de": "KURZHAARIGE ISTRIANER BRACKE",
+    "name_en": "ISTRIAN SHORT-HAIRED HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "KROATIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/istrian%20short-haired%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 143,
+    "name_de": "RAUHHAARIGE ISTRIANER BRACKE",
+    "name_en": "ISTRIAN WIRE-HAIRED HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "KROATIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/istrian%20wire-haired%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 144,
+    "name_de": "DALMATINER",
+    "name_en": "DALMATIAN",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Verwandte Rassen",
+    "country": "KROATIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dalmatian%20dog/Image_1.jpg"
+  },
+  {
+    "id": 145,
+    "name_de": "SAVETALBRACKE - POSAVATZ-BRACKE",
+    "name_en": "POSAVATZ HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "KROATIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/posavatz%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 146,
+    "name_de": "STICHELHAARIGER BOSNISCHER LAUFHUND- GENANNT BARAK",
+    "name_en": "BOSNIAN BROKEN-HAIRED HOUND - CALLED BARAK",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "BOSNIEN UND HERZEGOWINA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bosnian%20broken-haired%20hound%20-%20called%20barak%20dog/Image_1.jpg"
+  },
+  {
+    "id": 147,
+    "name_de": "LANGHAARIGER SCHOTTISCHER SCHAFERHUND",
+    "name_en": "COLLIE ROUGH",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/collie%20rough%20dog/Image_1.jpg"
+  },
+  {
+    "id": 148,
+    "name_de": "BULLMASTIFF",
+    "name_en": "BULLMASTIFF",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bullmastiff%20dog/Image_1.jpg"
+  },
+  {
+    "id": 149,
+    "name_de": "GREYHOUND",
+    "name_en": "GREYHOUND",
+    "group": "Windhunde",
+    "section": "Kurzhaarige Windhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/greyhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 150,
+    "name_de": "ENGLISH FOXHOUND",
+    "name_en": "ENGLISH FOXHOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/english%20foxhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 151,
+    "name_de": "IRISCHER WOLFSHUND",
+    "name_en": "IRISH WOLFHOUND",
+    "group": "Windhunde",
+    "section": "Rauhhaarige Windhunde",
+    "country": "IRLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/irish%20wolfhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 152,
+    "name_de": "BEAGLE",
+    "name_en": "BEAGLE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/beagle%20dog/Image_1.jpg"
+  },
+  {
+    "id": 153,
+    "name_de": "WHIPPET",
+    "name_en": "WHIPPET",
+    "group": "Windhunde",
+    "section": "Kurzhaarige Windhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/whippet%20dog/Image_1.jpg"
+  },
+  {
+    "id": 154,
+    "name_de": "BASSET HOUND",
+    "name_en": "BASSET HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/basset%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 155,
+    "name_de": "SCHOTTISCHER HIRSCHHUND",
+    "name_en": "DEERHOUND",
+    "group": "Windhunde",
+    "section": "Rauhhaarige Windhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/deerhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 156,
+    "name_de": "ITALIENISCHER SPINONE",
+    "name_en": "ITALIAN SPINONE",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/italian%20spinone%20dog/Image_1.jpg"
+  },
+  {
+    "id": 157,
+    "name_de": "DEUTSCHER SCHAEFERHUND",
+    "name_en": "GERMAN SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/german%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 158,
+    "name_de": "AMERIKANISCHER COCKER SPANIEL",
+    "name_en": "AMERICAN COCKER SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/american%20cocker%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 159,
+    "name_de": "DANDIE DINMONT TERRIER",
+    "name_en": "DANDIE DINMONT TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dandie%20dinmont%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 160,
+    "name_de": "FOX TERRIER (DRAHTHAAR)",
+    "name_en": "FOX TERRIER (WIRE)",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/fox%20terrier%20(wire)%20dog/Image_1.jpg"
+  },
+  {
+    "id": 161,
+    "name_de": "CASTRO-LABOREIRO-HUND",
+    "name_en": "CASTRO LABOREIRO DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/castro%20laboreiro%20dog/Image_1.jpg"
+  },
+  {
+    "id": 162,
+    "name_de": "ARDENNEN-TREIBHUND",
+    "name_en": "BOUVIER DES ARDENNES",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Treibhunde (ausgenommen Schweizer Sennenhunde)",
+    "country": "BELGIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bouvier%20des%20ardennes%20dog/Image_1.jpg"
+  },
+  {
+    "id": 163,
+    "name_de": "PUDEL",
+    "name_en": "POODLE",
+    "group": "Gesellschafts",
+    "section": "Pudel",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/poodle%20dog/Image_1.jpg"
+  },
+  {
+    "id": 164,
+    "name_de": "SERRA-DA-ESTRELA-BERGHUND",
+    "name_en": "ESTRELA MOUNTAIN DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/estrela%20mountain%20dog/Image_1.jpg"
+  },
+  {
+    "id": 165,
+    "name_de": "FRANZÖSICHER SPANIEL",
+    "name_en": "FRENCH SPANIEL",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/french%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 166,
+    "name_de": "PICARDIE-SCHÄFERHUND",
+    "name_en": "PICARDY SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/picardy%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 167,
+    "name_de": "ARIEGE-VORSTEHHUND",
+    "name_en": "ARIEGE POINTING DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/ariege%20pointing%20dog/Image_1.jpg"
+  },
+  {
+    "id": 168,
+    "name_de": "BOURBONNAISER VORSTEHHUND",
+    "name_en": "BOURBONNAIS POINTING DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bourbonnais%20pointing%20dog/Image_1.jpg"
+  },
+  {
+    "id": 169,
+    "name_de": "BRAQUE D'AUVERGNE",
+    "name_en": "AUVERGNE POINTER",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/auvergne%20pointer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 170,
+    "name_de": "RIESENSCHNAUZER",
+    "name_en": "GIANT SCHNAUZER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/giant%20schnauzer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 171,
+    "name_de": "SCHNAUZER",
+    "name_en": "SCHNAUZER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/schnauzer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 172,
+    "name_de": "ZWERGSCHNAUZER",
+    "name_en": "MINIATURE SCHNAUZER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/miniature%20schnauzer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 173,
+    "name_de": "DEUTSCHER PINSCHER",
+    "name_en": "GERMAN PINSCHER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/german%20pinscher%20dog/Image_1.jpg"
+  },
+  {
+    "id": 174,
+    "name_de": "ZWERGPINSCHER",
+    "name_en": "MINIATURE PINSCHER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/miniature%20pinscher%20dog/Image_1.jpg"
+  },
+  {
+    "id": 175,
+    "name_de": "AFFENPINSCHER",
+    "name_en": "AFFENPINSCHER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/affenpinscher%20dog/Image_1.jpg"
+  },
+  {
+    "id": 176,
+    "name_de": "PORTUGIESISCHER VORSTEHHUND",
+    "name_en": "PORTUGUESE POINTING DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/portuguese%20pointing%20dog/Image_1.jpg"
+  },
+  {
+    "id": 177,
+    "name_de": "SLOUGHI",
+    "name_en": "SLOUGHI",
+    "group": "Windhunde",
+    "section": "Kurzhaarige Windhunde",
+    "country": "MAROKKO",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/sloughi%20dog/Image_1.jpg"
+  },
+  {
+    "id": 178,
+    "name_de": "FINNISCHER LAPPHUND",
+    "name_en": "FINNISH LAPPONIAN DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Wach- und Hütehunde",
+    "country": "FINNLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/finnish%20lapponian%20dog/Image_1.jpg"
+  },
+  {
+    "id": 179,
+    "name_de": "HOVAWART",
+    "name_en": "HOVAWART",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hovawart%20dog/Image_1.jpg"
+  },
+  {
+    "id": 180,
+    "name_de": "FLANDRISCHER TREIBHUND",
+    "name_en": "BOUVIER DES FLANDRES",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Treibhunde (ausgenommen Schweizer Sennenhunde)",
+    "country": "BELGIEN, FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bouvier%20des%20flandres%20dog/Image_1.jpg"
+  },
+  {
+    "id": 181,
+    "name_de": "KROMFOHRLÄNDER",
+    "name_en": "KROMFOHRLÄNDER",
+    "group": "Gesellschafts",
+    "section": "Kromfohrländer",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/kromfohrländer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 182,
+    "name_de": "BARSOI - RUSSISCHER JAGDWINDHUND",
+    "name_en": "BORZOI - RUSSIAN HUNTING SIGHTHOUND",
+    "group": "Windhunde",
+    "section": "Langhaarige oder befederte Windhunde",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/borzoi%20-%20russian%20hunting%20sighthound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 183,
+    "name_de": "BERGAMASKER HIRTENHUND",
+    "name_en": "BERGAMASCO SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bergamasco%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 184,
+    "name_de": "ITALIENISCHER VOLPINO",
+    "name_en": "ITALIAN VOLPINO",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Europäische Spitze",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/italian%20volpino%20dog/Image_1.jpeg"
+  },
+  {
+    "id": 185,
+    "name_de": "BOLOGNESER",
+    "name_en": "BOLOGNESE",
+    "group": "Gesellschafts",
+    "section": "Bichons und verwandte Rassen",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bolognese%20dog/Image_1.jpg"
+  },
+  {
+    "id": 186,
+    "name_de": "MASTINO NAPOLETANO",
+    "name_en": "NEAPOLITAN MASTIFF",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/neapolitan%20mastiff%20dog/Image_1.jpg"
+  },
+  {
+    "id": 187,
+    "name_de": "DRAHTHAARIGER ITALIENISCHER LAUFHUND",
+    "name_en": "ITALIAN ROUGH-HAIRED SEGUGIO",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/italian%20rough-haired%20segugio%20dog/Image_1.jpg"
+  },
+  {
+    "id": 188,
+    "name_de": "CIRNECO DELL'ETNA",
+    "name_en": "CIRNECO DELL'ETNA",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp - Hunde zur jagdlichen Verwendung",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/cirneco%20dell'etna%20dog/Image_1.jpg"
+  },
+  {
+    "id": 189,
+    "name_de": "ITALIENISCHES WINDSPIEL",
+    "name_en": "ITALIAN SIGHTHOUND",
+    "group": "Windhunde",
+    "section": "Kurzhaarige Windhunde",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/italian%20sighthound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 190,
+    "name_de": "MAREMMEN-ABRUZZEN-SCHÄFERHUND",
+    "name_en": "MAREMMA AND THE ABRUZZES SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/maremma%20and%20the%20abruzzes%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 191,
+    "name_de": "ITALIENISCHER VORSTEHHUND",
+    "name_en": "ITALIAN POINTING DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/italian%20pointing%20dog/Image_1.jpg"
+  },
+  {
+    "id": 192,
+    "name_de": "DUNKERBRACKE - NORWEGISCHER LAUFHUND",
+    "name_en": "NORWEGIAN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "NORWEGEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norwegian%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 193,
+    "name_de": "SPANISCHER LAUFHUND",
+    "name_en": "SPANISH HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/spanish%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 194,
+    "name_de": "CHOW CHOW",
+    "name_en": "CHOW CHOW",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "CHINA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/chow%20chow%20dog/Image_1.jpg"
+  },
+  {
+    "id": 195,
+    "name_de": "JAPAN-CHIN",
+    "name_en": "JAPANESE CHIN",
+    "group": "Gesellschafts",
+    "section": "Japanische Spaniel und Pekingesen",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/japanese%20chin%20dog/Image_1.jpg"
+  },
+  {
+    "id": 196,
+    "name_de": "PEKINGESE",
+    "name_en": "PEKINGESE",
+    "group": "Gesellschafts",
+    "section": "Japanische Spaniel und Pekingesen",
+    "country": "CHINA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pekingese%20dog/Image_1.jpg"
+  },
+  {
+    "id": 197,
+    "name_de": "SHIH TZU",
+    "name_en": "SHIH TZU",
+    "group": "Gesellschafts",
+    "section": "Tibetanische Hunderassen",
+    "country": "Tibet (China)",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/shih%20tzu%20dog/Image_1.jpg"
+  },
+  {
+    "id": 198,
+    "name_de": "TIBET-TERRIER",
+    "name_en": "TIBETAN TERRIER",
+    "group": "Gesellschafts",
+    "section": "Tibetanische Hunderassen",
+    "country": "Tibet (China)",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/tibetan%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 199,
+    "name_de": "KANADISCHER ESKIMOHUND",
+    "name_en": "CANADIAN ESKIMO DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Schlittenhunde",
+    "country": "KANADA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/canadian%20eskimo%20dog/Image_1.jpg"
+  },
+  {
+    "id": 200,
+    "name_de": "SAMOJEDE",
+    "name_en": "SAMOYED",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Schlittenhunde",
+    "country": "NORDRUSSLAND, SIBERIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/samoyed%20dog/Image_1.jpg"
+  },
+  {
+    "id": 201,
+    "name_de": "HANNOVERSCHER SCHWEISSHUND",
+    "name_en": "HANOVERIAN SCENT HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Schweisshunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hanoverian%20scent%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 202,
+    "name_de": "GRIECHISCHER LAUFHUND",
+    "name_en": "HELLENIC HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "GRIECHENLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hellenic%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 203,
+    "name_de": "BICHON FRISE",
+    "name_en": "BICHON FRISE",
+    "group": "Gesellschafts",
+    "section": "Bichons und verwandte Rassen",
+    "country": "BELGIEN, FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bichon%20frise%20dog/Image_1.jpg"
+  },
+  {
+    "id": 204,
+    "name_de": "PUDELPOINTER",
+    "name_en": "PUDELPOINTER",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pudelpointer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 205,
+    "name_de": "BAYERISCHER GEBIRGSSCHWEISSHUND",
+    "name_en": "BAVARIAN MOUNTAIN SCENT HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Schweisshunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bavarian%20mountain%20scent%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 206,
+    "name_de": "CHIHUAHUA",
+    "name_en": "CHIHUAHUA",
+    "group": "Gesellschafts",
+    "section": "Chihuahueno",
+    "country": "MEXIKO",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/chihuahua%20dog/Image_1.jpg"
+  },
+  {
+    "id": 207,
+    "name_de": "FRANZÖSISCHER DREIFARBIGER LAUFHUND",
+    "name_en": "FRENCH TRICOLOUR HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/french%20tricolour%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 208,
+    "name_de": "FRANZÖSISCHER WEISS-SCHWARZER LAUFHUND",
+    "name_en": "FRENCH WHITE & BLACK HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/french%20white%20&%20black%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 209,
+    "name_de": "FRIESISCHER WASSERHUND",
+    "name_en": "WETTERHOUN",
+    "group": "Apportierhunde",
+    "section": "Wasserhunde",
+    "country": "NIEDERLANDE",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Friese_Stabij_P6180863.JPG",
+    "credit": "By Sjoerd.klaveringa at nl.wikipedia, CC BY-SA 2.5 nl, https://commons.wikimedia.org/w/index.php?curid=3511806"
+  },
+  {
+    "id": 210,
+    "name_de": "FRIESISCHER VORSTEHHUND",
+    "name_en": "STABIJHOUN",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "NIEDERLANDE",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/stabijhoun%20dog/Image_1.jpg"
+  },
+  {
+    "id": 211,
+    "name_de": "HOLLÄNDISCHER SCHÄFERHUND",
+    "name_en": "DUTCH SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "NIEDERLANDE",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dutch%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 212,
+    "name_de": "DRENT'SCHER HÜHNERHUND",
+    "name_en": "DRENTSCHE PARTRIDGE DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "NIEDERLANDE",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/drentsche%20partridge%20dog/Image_1.jpg"
+  },
+  {
+    "id": 213,
+    "name_de": "FILA BRASILEIRO",
+    "name_en": "FILA BRASILEIRO",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "BRASILIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/fila%20brasileiro%20dog/Image_1.jpg"
+  },
+  {
+    "id": 214,
+    "name_de": "LANDSEER (EUROPÄISCH-KONTINENTALER TYP)",
+    "name_en": "LANDSEER (EUROPEAN CONTINENTAL TYPE)",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "DEUTSCHLAND, SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/landseer%20(european%20continental%20type)%20dog/Image_1.jpg"
+  },
+  {
+    "id": 215,
+    "name_de": "LHASA APSO",
+    "name_en": "LHASA APSO",
+    "group": "Gesellschafts",
+    "section": "Tibetanische Hunderassen",
+    "country": "Tibet (China)",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/lhasa%20apso%20dog/Image_1.jpg"
+  },
+  {
+    "id": 216,
+    "name_de": "AFGHANISCHER WINDHUND",
+    "name_en": "AFGHAN HOUND",
+    "group": "Windhunde",
+    "section": "Langhaarige oder befederte Windhunde",
+    "country": "AFGHANISTAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/afghan%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 217,
+    "name_de": "DREIFARBIGER SERBISCHER LAUFHUND",
+    "name_en": "SERBIAN TRICOLOUR HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SERBIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/serbian%20tricolour%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 218,
+    "name_de": "DO KHYI",
+    "name_en": "TIBETAN MASTIFF",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "Tibet (China)",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/tibetan%20mastiff%20dog/Image_1.jpg"
+  },
+  {
+    "id": 219,
+    "name_de": "TIBET-SPANIEL",
+    "name_en": "TIBETAN SPANIEL",
+    "group": "Gesellschafts",
+    "section": "Tibetanische Hunderassen",
+    "country": "Tibet (China)",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/tibetan%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 220,
+    "name_de": "DEUTSCH STICHELHAAR",
+    "name_en": "DEUTSCH STICHELHAAR",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/deutsch%20stichelhaar%20dog/Image_1.jpg"
+  },
+  {
+    "id": 221,
+    "name_de": "LÖWCHEN",
+    "name_en": "LITTLE LION DOG",
+    "group": "Gesellschafts",
+    "section": "Bichons und verwandte Rassen",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/little%20lion%20dog/Image_1.jpg"
+  },
+  {
+    "id": 222,
+    "name_de": "MEXIKANISCHER NACKTHUND",
+    "name_en": "XOLOITZCUINTLE",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp",
+    "country": "MEXIKO",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/xoloitzcuintle%20dog/Image_1.jpg"
+  },
+  {
+    "id": 223,
+    "name_de": "DEUTSCHE DOGGE",
+    "name_en": "GREAT DANE",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/great%20dane%20dog/Image_1.jpg"
+  },
+  {
+    "id": 224,
+    "name_de": "AUSTRALIAN SILKY TERRIER",
+    "name_en": "AUSTRALIAN SILKY TERRIER",
+    "group": "Terrier",
+    "section": "Zwerg-Terriers",
+    "country": "AUSTRALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/australian%20silky%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 225,
+    "name_de": "NORWEGISCHER BUHUND",
+    "name_en": "NORWEGIAN BUHUND",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Wach- und Hütehunde",
+    "country": "NORWEGEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norwegian%20buhund%20dog/Image_1.jpg"
+  },
+  {
+    "id": 226,
+    "name_de": "MUDI",
+    "name_en": "MUDI",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/mudi%20dog/Image_1.jpg"
+  },
+  {
+    "id": 227,
+    "name_de": "DRAHTHAARIGER UNGARISCHER VORSTEHHUND",
+    "name_en": "HUNGARIAN WIRE-HAIRED POINTER",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hungarian%20wire-haired%20pointer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 228,
+    "name_de": "UNGARISCHER WINDHUND",
+    "name_en": "HUNGARIAN GREYHOUND",
+    "group": "Windhunde",
+    "section": "Kurzhaarige Windhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hungarian%20greyhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 229,
+    "name_de": "UNGARISCHE BRACKE - TRANSYLVANISCHER LAUFHUND",
+    "name_en": "HUNGARIAN HOUND - TRANSYLVANIAN SCENT HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "UNGARN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hungarian%20hound%20-%20transylvanian%20scent%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 230,
+    "name_de": "NORWEGISCHER ELCHHUND GRAU",
+    "name_en": "NORWEGIAN ELKHOUND GREY",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "NORWEGEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norwegian%20elkhound%20grey%20dog/Image_1.jpg"
+  },
+  {
+    "id": 231,
+    "name_de": "ALASKAN MALAMUTE",
+    "name_en": "ALASKAN MALAMUTE",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Schlittenhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/alaskan%20malamute%20dog/Image_1.jpg"
+  },
+  {
+    "id": 232,
+    "name_de": "SLOWAKISCHER LAUFHUND",
+    "name_en": "SLOVAKIAN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "SLOWAKEI",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/slovakian%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 233,
+    "name_de": "BÖHMISCH RAUHBART",
+    "name_en": "BOHEMIAN WIRE-HAIRED POINTING GRIFFON",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "TSCHECHISCHE REPUBLIK",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bohemian%20wire-haired%20pointing%20griffon%20dog/Image_1.jpg"
+  },
+  {
+    "id": 234,
+    "name_de": "TSCHECHISCHER TERRIER",
+    "name_en": "CESKY TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "TSCHECHISCHE REPUBLIK",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/cesky%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 235,
+    "name_de": "ATLAS-BERGHUND (AÏDI)",
+    "name_en": "ATLAS MOUNTAIN DOG (AIDI)",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "MAROKKO",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/atlas%20mountain%20dog%20(aidi)/Image_1.jpg"
+  },
+  {
+    "id": 236,
+    "name_de": "PHARAONENHUND",
+    "name_en": "PHARAOH HOUND",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp",
+    "country": "MALTA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pharaoh%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 237,
+    "name_de": "MALLORCA-DOGGE",
+    "name_en": "MAJORCA MASTIFF",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/majorca%20mastiff%20dog/Image_1.jpg"
+  },
+  {
+    "id": 238,
+    "name_de": "HAVANESER",
+    "name_en": "HAVANESE",
+    "group": "Gesellschafts",
+    "section": "Bichons und verwandte Rassen",
+    "country": "KUBA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/havanese%20dog/Image_1.jpg"
+  },
+  {
+    "id": 239,
+    "name_de": "POLNISCHER NIEDERUNGSHÜTEHUND",
+    "name_en": "POLISH LOWLAND SHEEPDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "POLEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/polish%20lowland%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 240,
+    "name_de": "TATRA-SCHÄFERHUND",
+    "name_en": "TATRA SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "POLEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/tatra%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 241,
+    "name_de": "MOPS",
+    "name_en": "PUG",
+    "group": "Gesellschafts",
+    "section": "Kleine doggenartige Hunde",
+    "country": "CHINA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/pug%20dog/Image_1.jpg"
+  },
+  {
+    "id": 242,
+    "name_de": "ALPENLÄNDISCHE DACHSBRACKE",
+    "name_en": "ALPINE DACHSBRACKE",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Schweisshunde",
+    "country": "ÖSTERREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/alpine%20dachsbracke%20dog/Image_1.jpg"
+  },
+  {
+    "id": 243,
+    "name_de": "AKITA",
+    "name_en": "AKITA",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/akita%20dog/Image_1.jpg"
+  },
+  {
+    "id": 244,
+    "name_de": "SHIBA",
+    "name_en": "SHIBA",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/shiba%20dog/Image_1.jpg"
+  },
+  {
+    "id": 245,
+    "name_de": "JAPANISCHER TERRIER",
+    "name_en": "JAPANESE TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/japanese%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 246,
+    "name_de": "TOSA",
+    "name_en": "TOSA",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/tosa%20dog/Image_1.jpg"
+  },
+  {
+    "id": 247,
+    "name_de": "HOKKAIDO",
+    "name_en": "HOKKAIDO",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hokkaido%20dog/Image_1.jpg"
+  },
+  {
+    "id": 248,
+    "name_de": "JAPAN-SPITZ",
+    "name_en": "JAPANESE SPITZ",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/japanese%20spitz%20dog/Image_1.png"
+  },
+  {
+    "id": 249,
+    "name_de": "CHESAPEAKE BAY RETRIEVER",
+    "name_en": "CHESAPEAKE BAY RETRIEVER",
+    "group": "Apportierhunde",
+    "section": "Apportierhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/chesapeake%20bay%20retriever%20dog/Image_1.jpg"
+  },
+  {
+    "id": 250,
+    "name_de": "MASTIFF",
+    "name_en": "MASTIFF",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/mastiff%20dog/Image_1.jpg"
+  },
+  {
+    "id": 251,
+    "name_de": "NORWEGISCHER LUNDEHUND",
+    "name_en": "NORWEGIAN LUNDEHUND",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "NORWEGEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norwegian%20lundehund%20dog/Image_1.jpg"
+  },
+  {
+    "id": 252,
+    "name_de": "HYGEN-BRACKE",
+    "name_en": "HYGEN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "NORWEGEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/hygen%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 253,
+    "name_de": "HALDEN-BRACKE",
+    "name_en": "HALDEN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "NORWEGEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/halden%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 254,
+    "name_de": "NORWEGISCHER ELCHHUND SCHWARZ",
+    "name_en": "NORWEGIAN ELKHOUND BLACK",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "NORWEGEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norwegian%20elkhound%20black%20dog/Image_1.jpg"
+  },
+  {
+    "id": 255,
+    "name_de": "SALUKI",
+    "name_en": "SALUKI",
+    "group": "Windhunde",
+    "section": "Langhaarige oder befederte Windhunde",
+    "country": "NAHOST",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/saluki%20dog/Image_1.jpg"
+  },
+  {
+    "id": 256,
+    "name_de": "SIBERIAN HUSKY",
+    "name_en": "SIBERIAN HUSKY",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Schlittenhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/siberian%20husky%20dog/Image_1.jpg"
+  },
+  {
+    "id": 257,
+    "name_de": "BEARDED COLLIE",
+    "name_en": "BEARDED COLLIE",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bearded%20collie%20dog/Image_1.jpg"
+  },
+  {
+    "id": 258,
+    "name_de": "NORFOLK TERRIER",
+    "name_en": "NORFOLK TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norfolk%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 259,
+    "name_de": "KANAAN-HUND",
+    "name_en": "CANAAN DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp",
+    "country": "ISRAEL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/canaan%20dog/Image_1.jpg"
+  },
+  {
+    "id": 260,
+    "name_de": "GROENLANDHUND",
+    "name_en": "GREENLAND DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Schlittenhunde",
+    "country": "GRÖNLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/greenland%20dog/Image_1.jpg"
+  },
+  {
+    "id": 261,
+    "name_de": "BRASILIANISCHER LAUFHUND",
+    "name_en": "BRAZILIAN TRACKER",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "BRASILIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/brazilian%20tracker%20dog/Image_1.jpg"
+  },
+  {
+    "id": 262,
+    "name_de": "NORRBOTTENSPITZ",
+    "name_en": "NORRBOTTENSPITZ",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/norrbottenspitz%20dog/Image_1.jpg"
+  },
+  {
+    "id": 263,
+    "name_de": "KROATISCHER SCHÄFERHUND",
+    "name_en": "CROATIAN SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "KROATIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/croatian%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 264,
+    "name_de": "KARST-SCHÄFERHUND",
+    "name_en": "KARST SHEPHERD DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "SLOWENIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/karst%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 265,
+    "name_de": "MONTENEGRINISCHER GEBIRGSLAUFHUND",
+    "name_en": "MONTENEGRIN MOUNTAIN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "MONTENEGRO",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/montenegrin%20mountain%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 266,
+    "name_de": "ALTDÄNISCHER VORSTEHHUND",
+    "name_en": "OLD DANISH POINTING DOG",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "DÄNEMARK",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/old%20danish%20pointing%20dog/Image_1.jpg"
+  },
+  {
+    "id": 267,
+    "name_de": "GROSSER GRIFFON VENDEEN",
+    "name_en": "GRAND GRIFFON VENDEEN",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/grand%20griffon%20vendeen%20dog/Image_1.jpg"
+  },
+  {
+    "id": 268,
+    "name_de": "COTON DE TULEAR",
+    "name_en": "COTON DE TULEAR",
+    "group": "Gesellschafts",
+    "section": "Bichons und verwandte Rassen",
+    "country": "MADAGASKAR",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/coton%20de%20tulear%20dog/Image_1.jpg"
+  },
+  {
+    "id": 269,
+    "name_de": "FINNISCHER LAPPLANDHIRTENHUND",
+    "name_en": "LAPPONIAN HERDER",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Wach- und Hütehunde",
+    "country": "FINNLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/lapponian%20herder%20dog/Image_1.jpg"
+  },
+  {
+    "id": 270,
+    "name_de": "SPANISCHER WINDHUND",
+    "name_en": "SPANISH GREYHOUND",
+    "group": "Windhunde",
+    "section": "Kurzhaarige Windhunde",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/spanish%20greyhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 271,
+    "name_de": "AMERICAN STAFFORDSHIRE TERRIER",
+    "name_en": "AMERICAN STAFFORDSHIRE TERRIER",
+    "group": "Terrier",
+    "section": "Bullartige Terrier",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/american%20staffordshire%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 272,
+    "name_de": "AUSTRALISCHER TREIBHUND",
+    "name_en": "AUSTRALIAN CATTLE DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Treibhunde (ausgenommen Schweizer Sennenhunde)",
+    "country": "AUSTRALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/australian%20cattle%20dog/Image_1.jpg"
+  },
+  {
+    "id": 273,
+    "name_de": "CHINESISCHER SCHOPFHUND",
+    "name_en": "CHINESE CRESTED DOG",
+    "group": "Gesellschafts",
+    "section": "Haarlose Hunde",
+    "country": "CHINA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/chinese%20crested%20dog/Image_1.jpg"
+  },
+  {
+    "id": 274,
+    "name_de": "ISLANDHUND",
+    "name_en": "ICELANDIC SHEEPDOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Wach- und Hütehunde",
+    "country": "ISLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/icelandic%20sheepdog/Image_1.jpg"
+  },
+  {
+    "id": 275,
+    "name_de": "BEAGLE-HARRIER",
+    "name_en": "BEAGLE HARRIER",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/beagle%20harrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 276,
+    "name_de": "EURASIER",
+    "name_en": "EURASIAN",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/eurasian%20dog/Image_1.jpg"
+  },
+  {
+    "id": 277,
+    "name_de": "ARGENTINISCHE DOGGE",
+    "name_en": "DOGO ARGENTINO",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "ARGENTINIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dogo%20argentino/Image_1.jpg"
+  },
+  {
+    "id": 278,
+    "name_de": "AUSTRALIAN KELPIE",
+    "name_en": "AUSTRALIAN KELPIE",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "AUSTRALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/australian%20kelpie%20dog/Image_1.jpg"
+  },
+  {
+    "id": 279,
+    "name_de": "OTTERHUND",
+    "name_en": "OTTERHOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/otterhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 280,
+    "name_de": "HARRIER",
+    "name_en": "HARRIER",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/harrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 281,
+    "name_de": "KURZHAARIGER SCHOTTISCHER SCHAFERHUND",
+    "name_en": "COLLIE SMOOTH",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/collie%20smooth%20dog/Image_1.jpg"
+  },
+  {
+    "id": 282,
+    "name_de": "BORDER COLLIE",
+    "name_en": "BORDER COLLIE",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/border%20collie%20dog/Image_1.jpg"
+  },
+  {
+    "id": 283,
+    "name_de": "WASSERHUND DER ROMAGNA",
+    "name_en": "ROMAGNA WATER DOG",
+    "group": "Apportierhunde",
+    "section": "Wasserhunde",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/romagna%20water%20dog/Image_1.jpg"
+  },
+  {
+    "id": 284,
+    "name_de": "DEUTSCHE BRACKE",
+    "name_en": "GERMAN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "DEUTSCHLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/german%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 285,
+    "name_de": "SCHWARZ-LOHFARBENER WASCHBÄRENHUND",
+    "name_en": "BLACK AND TAN COONHOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/black%20and%20tan%20coonhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 286,
+    "name_de": "AMERIKANISCHER WASSERSPANIEL",
+    "name_en": "AMERICAN WATER SPANIEL",
+    "group": "Apportierhunde",
+    "section": "Wasserhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/american%20water%20spaniel%20dog/Image_1.jpg"
+  },
+  {
+    "id": 287,
+    "name_de": "IRISCHER GLEN OF IMAAL TERRIER",
+    "name_en": "IRISH GLEN OF IMAAL TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "IRLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/irish%20glen%20of%20imaal%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 288,
+    "name_de": "AMERICAN FOXHOUND",
+    "name_en": "AMERICAN FOXHOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/american%20foxhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 289,
+    "name_de": "RUSSISCH-EUROPÄISCHER LAÏKA",
+    "name_en": "RUSSIAN-EUROPEAN LAIKA",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/russian-european%20laika%20dog/Image_1.jpg"
+  },
+  {
+    "id": 290,
+    "name_de": "OSTSIBIRISCHER LAÏKA",
+    "name_en": "EAST SIBERIAN LAIKA",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/east%20siberian%20laika%20dog/Image_1.jpg"
+  },
+  {
+    "id": 291,
+    "name_de": "WESTSIBIRISCHER LAÏKA",
+    "name_en": "WEST SIBERIAN LAIKA",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Jagdhunde",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/west%20siberian%20laika%20dog/Image_1.jpg"
+  },
+  {
+    "id": 292,
+    "name_de": "AZAWAKH",
+    "name_en": "AZAWAKH",
+    "group": "Windhunde",
+    "section": "Kurzhaarige Windhunde",
+    "country": "MALI",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/azawakh%20dog/Image_1.jpg"
+  },
+  {
+    "id": 293,
+    "name_de": "HOLLÄNDISCHER SMOUSHUND",
+    "name_en": "DUTCH SMOUSHOND",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "NIEDERLANDE",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dutch%20smoushond%20dog/Image_1.jpg"
+  },
+  {
+    "id": 294,
+    "name_de": "SHAR PEI",
+    "name_en": "SHAR PEI",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "CHINA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/shar%20pei%20dog/Image_1.jpg"
+  },
+  {
+    "id": 295,
+    "name_de": "PERUANISCHER NACKTHUND",
+    "name_en": "PERUVIAN HAIRLESS DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp",
+    "country": "PERU",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/peruvian%20hairless%20dog/Image_1.jpg"
+  },
+  {
+    "id": 296,
+    "name_de": "SAARLOOSWOLFHUND",
+    "name_en": "SAARLOOS WOLFHOND",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "NIEDERLANDE",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/saarloos%20wolfhond%20dog/Image_1.jpg"
+  },
+  {
+    "id": 297,
+    "name_de": "NOVA SCOTIA RETRIEVER",
+    "name_en": "NOVA SCOTIA DUCK TOLLING RETRIEVER",
+    "group": "Apportierhunde",
+    "section": "Apportierhunde",
+    "country": "KANADA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/nova%20scotia%20duck%20tolling%20retriever%20dog/Image_1.jpg"
+  },
+  {
+    "id": 298,
+    "name_de": "NIEDERLÄNDISCHER SCHAPENDOES",
+    "name_en": "DUTCH SCHAPENDOES",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "NIEDERLANDE",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/dutch%20schapendoes%20dog/Image_1.jpg"
+  },
+  {
+    "id": 299,
+    "name_de": "NEDERLANDSE KOOIKERHONDJE",
+    "name_en": "NEDERLANDSE KOOIKERHONDJE",
+    "group": "Apportierhunde",
+    "section": "Stöberhunde",
+    "country": "NIEDERLANDE",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/nederlandse%20kooikerhondje%20dog/Image_1.jpg"
+  },
+  {
+    "id": 300,
+    "name_de": "BROHOLMER",
+    "name_en": "BROHOLMER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "DÄNEMARK",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/broholmer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 301,
+    "name_de": "FRANZÖSISCHER WEISS-ORANGER LAUFHUND",
+    "name_en": "FRENCH WHITE AND ORANGE HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/french%20white%20and%20orange%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 302,
+    "name_de": "KAI",
+    "name_en": "KAI",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/kai%20dog/Image_1.jpg"
+  },
+  {
+    "id": 303,
+    "name_de": "KISHU",
+    "name_en": "KISHU",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "JAPAN",
+    "picture": "http://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/kishu%20dog/Image_1.png"
+  },
+  {
+    "id": 304,
+    "name_de": "SHIKOKU",
+    "name_en": "SHIKOKU",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/shikoku%20dog/Image_1.jpg"
+  },
+  {
+    "id": 305,
+    "name_de": "SLOWAKISCHER RAUHBART",
+    "name_en": "WIREHAIRED SLOVAKIAN POINTER",
+    "group": "Vorstehhunde",
+    "section": "Kontinentale Vorstehhunde",
+    "country": "SLOWAKEI",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/wirehaired%20slovakian%20pointer%20dog/Image_1.jpg"
+  },
+  {
+    "id": 306,
+    "name_de": "MALLORCA-SCHÄFERHUND",
+    "name_en": "MAJORCA SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/majorca%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 307,
+    "name_de": "GROSSER ANGLO-FRANZÖSISCHER DREIFARBIGER LAUFHUND",
+    "name_en": "GREAT ANGLO-FRENCH TRICOLOUR HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/great%20anglo-french%20tricolour%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 308,
+    "name_de": "GROSSER ANGLO-FRANZ.WEISS-SCHWARZER LAUFHUND",
+    "name_en": "GREAT ANGLO-FRENCH WHITE AND BLACK HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/great%20anglo-french%20white%20and%20black%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 309,
+    "name_de": "GROSSER ANGLO-FRANZÖSISCHER WEISS-ORANGER LAUFHUND",
+    "name_en": "GREAT ANGLO-FRENCH WHITE & ORANGE HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/great%20anglo-french%20white%20&%20orange%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 310,
+    "name_de": "MITTELGROSSER ANGLO-FRANZÖSISCHER LAUFHUND",
+    "name_en": "MEDIUM-SIZED ANGLO-FRENCH HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "FRANKREICH",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/medium-sized%20anglo-french%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 311,
+    "name_de": "SÜDRUSSISCHER OVTCHARKA",
+    "name_en": "SOUTH RUSSIAN SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/south%20russian%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 312,
+    "name_de": "RUSSISCHER SCHWARZER TERRIER",
+    "name_en": "RUSSIAN BLACK TERRIER",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/russian%20black%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 313,
+    "name_de": "KAUKASISCHER SCHÄFERHUND",
+    "name_en": "CAUCASIAN SHEPHERD DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/caucasian%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 314,
+    "name_de": "KANARISCHER PODENCO",
+    "name_en": "CANARIAN WARREN HOUND",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp - Hunde zur jagdlichen Verwendung",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/canarian%20warren%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 315,
+    "name_de": "IRISCHER ROT-WEISSER SETTER",
+    "name_en": "IRISH RED AND WHITE SETTER",
+    "group": "Vorstehhunde",
+    "section": "Britische und Irische Vorstehhunde",
+    "country": "IRLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/irish%20red%20and%20white%20setter%20dog/Image_1.jpg"
+  },
+  {
+    "id": 316,
+    "name_de": "KANGAL-HIRTENHUND",
+    "name_en": "KANGAL SHEPHERD DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "TÜRKEI",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/kangal%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 317,
+    "name_de": "TSCHECHOSLOWAKISCHER WOLFHUND",
+    "name_en": "CZECHOSLOVAKIAN WOLFDOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "TSCHECHOSLOWAKEI (EHEMALIG)",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/czechoslovakian%20wolfdog/Image_1.jpg"
+  },
+  {
+    "id": 318,
+    "name_de": "POLNISCHER WINDHUND",
+    "name_en": "POLISH GREYHOUND",
+    "group": "Windhunde",
+    "section": "Kurzhaarige Windhunde",
+    "country": "POLEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/polish%20greyhound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 319,
+    "name_de": "KOREANISCHER JINDO",
+    "name_en": "KOREA JINDO DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "KOREA (REPUBLIK)",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/korea%20jindo%20dog/Image_1.jpg"
+  },
+  {
+    "id": 320,
+    "name_de": "MITTELASIATISCHER SCHÄFERHUND",
+    "name_en": "CENTRAL ASIA SHEPHERD DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/central%20asia%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 321,
+    "name_de": "SPANISCHER WASSERHUND",
+    "name_en": "SPANISH WATER DOG",
+    "group": "Apportierhunde",
+    "section": "Wasserhunde",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/spanish%20water%20dog/Image_1.jpg"
+  },
+  {
+    "id": 322,
+    "name_de": "KURZHAARIGER ITALIENISCHER LAUFHUND",
+    "name_en": "ITALIAN SHORT-HAIRED SEGUGIO",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/italian%20short-haired%20segugio%20dog/Image_1.jpg"
+  },
+  {
+    "id": 323,
+    "name_de": "THAILAND-RIDGEBACK",
+    "name_en": "THAI RIDGEBACK DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp - Hunde zur jagdlichen Verwendung",
+    "country": "THAILAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/thai%20ridgeback%20dog/Image_1.jpg"
+  },
+  {
+    "id": 324,
+    "name_de": "PARSON RUSSELL TERRIER",
+    "name_en": "PARSON RUSSELL TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/parson%20russell%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 325,
+    "name_de": "CAO FILA DE SAO MIGUEL",
+    "name_en": "SAINT MIGUEL CATTLE DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/saint%20miguel%20cattle%20dog/Image_1.jpg"
+  },
+  {
+    "id": 326,
+    "name_de": "BRASILIANISCHER TERRIER",
+    "name_en": "BRAZILIAN TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "BRASILIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/brazilian%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 327,
+    "name_de": "AUSTRALISCHER SCHAFERHUND",
+    "name_en": "AUSTRALIAN SHEPHERD",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/australian%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 328,
+    "name_de": "ITALIENISCHER CORSO-HUND",
+    "name_en": "ITALIAN CANE CORSO",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "ITALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/italian%20cane%20corso%20dog/Image_1.jpg"
+  },
+  {
+    "id": 329,
+    "name_de": "AMERIKANISCHER AKITA",
+    "name_en": "AMERICAN AKITA",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "JAPAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/american%20akita%20dog/Image_1.jpg"
+  },
+  {
+    "id": 330,
+    "name_de": "JACK RUSSELL TERRIER",
+    "name_en": "JACK RUSSELL TERRIER",
+    "group": "Terrier",
+    "section": "Niederläufige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/jack%20russell%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 331,
+    "name_de": "PRESA CANARIO",
+    "name_en": "PRESA CANARIO",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/presa%20canario%20dog/Image_1.jpg"
+  },
+  {
+    "id": 332,
+    "name_de": "WEISSER SCHWEIZER SCHÄFERHUND",
+    "name_en": "WHITE SWISS SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/white%20swiss%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 333,
+    "name_de": "TAIWAN-HUND",
+    "name_en": "TAIWAN DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Urtyp - Hunde zur jagdlichen Verwendung",
+    "country": "TAIWAN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/taiwan%20dog/Image_1.jpg"
+  },
+  {
+    "id": 334,
+    "name_de": "CIOBANESC ROMÂNESC MIORITIC",
+    "name_en": "ROMANIAN MIORITIC SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "RUMÄNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/romanian%20mioritic%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 335,
+    "name_de": "CIOBANESC ROMÂNESC CARPATIN",
+    "name_en": "ROMANIAN CARPATHIAN SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "RUMÄNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/romanian%20carpathian%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 336,
+    "name_de": "AUSTRALIAN STUMPY TAIL CATTLE DOG",
+    "name_en": "AUSTRALIAN STUMPY TAIL CATTLE DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Treibhunde (ausgenommen Schweizer Sennenhunde)",
+    "country": "AUSTRALIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/australian%20stumpy%20tail%20cattle%20dog/Image_1.jpg"
+  },
+  {
+    "id": 337,
+    "name_de": "RUSSISCHER TOY",
+    "name_en": "RUSSIAN TOY",
+    "group": "Gesellschafts",
+    "section": "Kontinentaler Zwergspaniel und andere",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/russian%20toy%20dog/Image_1.jpg"
+  },
+  {
+    "id": 338,
+    "name_de": "URUGUAYISCHER CIMARRON",
+    "name_en": "CIMARRÓN URUGUAYO",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "URUGUAY",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/cimarrón%20uruguayo%20dog/Image_1.jpg"
+  },
+  {
+    "id": 339,
+    "name_de": "POLNISCHER JAGDHUND",
+    "name_en": "POLISH HUNTING DOG",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "POLEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/polish%20hunting%20dog/Image_1.png"
+  },
+  {
+    "id": 340,
+    "name_de": "BOSNISCH-HERZEGOWINISCHER-KROATISCHER SCHÄFERHUND",
+    "name_en": "BOSNIAN AND HERZEGOVINIAN - CROATIAN SHEPHERD DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "BOSNIEN UND HERZEGOWINA, KROATIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bosnian%20and%20herzegovinian%20-%20croatian%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 341,
+    "name_de": "DÄNISCH-SCHWEDISCHER FARMHUND",
+    "name_en": "DANISH-SWEDISH FARMDOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Pinscher und Schnauzer",
+    "country": "DÄNEMARK, SCHWEDEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/danish-swedish%20farmdog/Image_1.jpg"
+  },
+  {
+    "id": 342,
+    "name_de": "RUMÄNISCHER BUKOWINA-SCHÄFERHUND",
+    "name_en": "ROMANIAN BUCOVINA SHEPHERD",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "RUMÄNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/romanian%20bucovina%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 343,
+    "name_de": "THAI-BANGKAEW-HUND",
+    "name_en": "THAI BANGKAEW DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "THAILAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/thai%20bangkaew%20dog/Image_1.jpg"
+  },
+  {
+    "id": 344,
+    "name_de": "MINIATURE BULL TERRIER",
+    "name_en": "MINIATURE BULL TERRIER",
+    "group": "Terrier",
+    "section": "Bullartige Terrier",
+    "country": "GROßBRITANNIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/miniature%20bull%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 345,
+    "name_de": "LANCASHIRE HEELER",
+    "name_en": "LANCASHIRE HEELER",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "ENGLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/lancashire%20heeler%20dog/Image_1.jpg"
+  },
+  {
+    "id": 346,
+    "name_de": "SEGUGIO MAREMMANO",
+    "name_en": "SEGUGIO MAREMMANO",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "ITALIEN",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Maremmanakfawn2.jpg",
+    "credit": "By Canarian - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=147758208"
+  },
+  {
+    "id": 347,
+    "name_de": "KINTAMANI-BALI-HUND",
+    "name_en": "KINTAMANI-BALI DOG",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Asiatische Spitze und verwandte Rassen",
+    "country": "INDONESIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/kintamani-bali%20dog/Image_1.jpg"
+  },
+  {
+    "id": 348,
+    "name_de": "PRAGER RATTLER",
+    "name_en": "PRAGUE RATTER",
+    "group": "Gesellschafts",
+    "section": "Kontinentaler Zwergspaniel und andere",
+    "country": "TSCHECHISCHE REPUBLIK",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/prague%20ratter%20dog/Image_1.jpg"
+  },
+  {
+    "id": 349,
+    "name_de": "BÖHMISCHER SCHÄFERHUND",
+    "name_en": "BOHEMIAN SHEPHERD DOG",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "TSCHECHISCHE REPUBLIK",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/bohemian%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 350,
+    "name_de": "YAKUTSKAYA LAIKA",
+    "name_en": "YAKUTIAN LAIKA",
+    "group": "Spitze und Hunde vom Urtyp",
+    "section": "Nordische Schlittenhunde",
+    "country": "RUSSISCHE FÖDERATION",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/yakutian%20laika%20dog/Image_1.jpg"
+  },
+  {
+    "id": 351,
+    "name_de": "ESTNISCHE BRACKE",
+    "name_en": "ESTONIAN HOUND",
+    "group": "Laufhunde, Schweisshunde und verwandte Rassen",
+    "section": "Laufhunde",
+    "country": "ESTLAND",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/estonian%20hound%20dog/Image_1.jpg"
+  },
+  {
+    "id": 352,
+    "name_de": "MINIATUR AMERIKANISCHER SCHÄFERHUND",
+    "name_en": "MINIATURE AMERICAN SHEPHERD",
+    "group": "Hütehunde und Treibhunde",
+    "section": "Schäferhunde",
+    "country": "VEREINIGTE STAATEN VON AMERIKA",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/miniature%20american%20shepherd%20dog/Image_1.jpg"
+  },
+  {
+    "id": 353,
+    "name_de": "TRANSMONTANO-HIRTENHUND",
+    "name_en": "TRANSMONTANO MASTIFF",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "PORTUGAL",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/transmontano%20mastiff%20dog/Image_1.jpg"
+  },
+  {
+    "id": 354,
+    "name_de": "CONTINENTAL BULLDOG",
+    "name_en": "CONTINENTAL BULLDOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "SCHWEIZ",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/continental%20bulldog/Image_1.jpg"
+  },
+  {
+    "id": 355,
+    "name_de": "RATONERO VALENCIANO",
+    "name_en": "VALENCIAN TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "SPANIEN",
+    "picture": "https://raw.githubusercontent.com/AtharvaTaras/Dog-Breeds-Dataset/refs/heads/master/valencian%20terrier%20dog/Image_1.jpg"
+  },
+  {
+    "id": 356,
+    "name_de": "RATONERO BODEGUERO ANDALUZ",
+    "name_en": "ANDALUSIAN TERRIER, SHERRY TERRIER",
+    "group": "Terrier",
+    "section": "Hochläufige Terrier",
+    "country": "SPANIEN",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Ratonero_bodeguero_andaluz_en_carrera.jpg",
+    "credit": "By Trastolillo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71995266"
+  },
+  {
+    "id": 357,
+    "name_de": "KAZAKH TAZY",
+    "name_en": "KAZAKH TAZY",
+    "group": "Windhunde",
+    "section": "Langhaarige oder befederte Windhunde",
+    "country": "KASACHSTAN",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kazakhhoundtazy2.jpg",
+    "credit": "By Canarian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136530587"
+  },
+  {
+    "id": 358,
+    "name_de": "CIOBĂNESC ROMÂNESC CORB",
+    "name_en": "ROMANIAN RAVEN SHEPHERD DOG",
+    "group": "Pinscher und Schnauzer",
+    "section": "Molossoide",
+    "country": "RUMÄNIEN",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Romanianravencorb2.jpg",
+    "credit": "By Canarian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136530622"
+  }
+]
