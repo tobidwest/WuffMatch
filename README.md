@@ -15,5 +15,6 @@ Here are a few areas where help is especially appreciated:
 - 🧩 Refactor repeated code by using reusable components and imported utility functions
 - 🎯 Implement the swiping logic for a smoother and more interactive experience
 - 🌍 Make the app available in additional languages beyond German
+- 🐌 Implement a clever lazy loading technique for the dog images
 - 📸 Review and improve the dog breed images for higher quality and consistency
 - 🎨 Polish the overall design to make the app even more fun and user-friendly
