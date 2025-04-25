@@ -1,6 +1,6 @@
 # 🐾 WuffMatch
-WuffMatch 😄 is a web app that helps you discover your favorite dog breed using a fun swipe interface.
-Compare your picks with your friends and see how well your "paw-sonalities" match!
+WuffMatch is a web app that helps you discover your favorite dog breed using a fun swipe interface.
+Compare your picks with your friends and see how well your "paw-sonalities" match! 😄
 
 ## ✨ Features
 🔍 Swipe through all FCI-registered dog breeds
