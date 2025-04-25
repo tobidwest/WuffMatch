@@ -1,4 +1,3 @@
-// src/router.js
 import { createRouter, createWebHistory } from 'vue-router'
 import Welcome from './screens/Welcome.vue'
 import Slider from './screens/Slider.vue'
