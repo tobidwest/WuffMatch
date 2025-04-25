@@ -34,7 +34,7 @@ const router = useRouter()
   <div class="flex w-full justify-center gap-2 mt-8">
     <p>
       <a
-        href="https://tobiaswestphal.me/"
+        href="https://github.com/tobidwest/WuffMatch"
         target="_blank"
         rel="noopener noreferrer"
         class="cursor-pointer"
