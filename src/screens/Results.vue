@@ -10,10 +10,18 @@ const store = useDogsStore()
 const { dogs } = storeToRefs(store)
 
 const likedDogs = computed(() => {
+  return dogs.value.filter((dog) => dog.status === 'like')
+})
+  
+const onlyUserlikedDogs = computed(() => {
   return dogs.value.filter((dog) => dog.status === 'like' && dog.friend != 'like')
 })
 
 const sharedDogs = computed(() => {
+  return dogs.value.filter((dog) => dog.friend === 'like')
+})
+  
+const onlyContactLikedDogs = computed(() => {
   return dogs.value.filter((dog) => dog.status === 'dislike' && dog.friend === 'like')
 })
 
@@ -118,13 +126,13 @@ function shareSheet() {
         </div>
       </div>
 
-      <!-- Beide mögen -->
-      <h2 v-if="sharedDogs.length !== 0" class="text-2xl font-semibold">
+      <!-- Kontakt mag -->
+      <h2 v-if="onlyContactLikedDogs.length !== 0" class="text-2xl font-semibold">
         Dein Kontakt mag außerdem
       </h2>
       <div
-        v-if="sharedDogs.length !== 0"
-        v-for="dog in sharedDogs"
+        v-if="onlyContactLikedDogs.length !== 0"
+        v-for="dog in onlyContactLikedDogs"
         class="flex gap-6 bg-white rounded-2xl p-4"
       >
         <img :src="dog.picture" class="w-36 h-28 object-cover rounded-2xl aspect-auto" />
@@ -175,12 +183,12 @@ function shareSheet() {
 
       <!-- Du magst -->
       <h2
-        v-if="(matchingDogs.length !== 0 || sharedDogs.length !== 0) && likedDogs.length !== 0"
+        v-if="(matchingDogs.length !== 0 || onlyContactLikedDogs.length !== 0) && onlyUserlikedDogs.length !== 0"
         class="text-2xl font-semibold"
       >
         Du magst außerdem
       </h2>
-      <div v-for="dog in likedDogs" class="flex gap-6 bg-white rounded-2xl p-4">
+      <div v-for="dog in onlyUserlikedDogs" class="flex gap-6 bg-white rounded-2xl p-4">
         <img :src="dog.picture" class="w-36 h-28 object-cover rounded-2xl aspect-auto" />
         <div class="flex flex-col gap-2 justify-between">
           <span class="text-xl font-semibold">{{ dog.name_de }}</span>
